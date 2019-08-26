@@ -21,7 +21,7 @@ app.use(error); // it specically for eroor middleware pipeline
 /* const p = Promise.reject(new Error ('Something failed miserably'))
 p.then(()=>console.log("Done"))
  */
-const port=process.nextTick.PORT || 5000;
+const port=process.env.PORT || 5000;
 const server=app.listen(port,()=>winston.info(`Listening on Port ${port}...`));
 
 module.exports=server;
