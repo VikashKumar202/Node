@@ -1,4 +1,3 @@
 {
-    "jwtPrivateKey":"",
-    "db":"mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority"
+    "jwtPrivateKey":""
 }
