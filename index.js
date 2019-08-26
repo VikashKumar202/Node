@@ -1,8 +1,7 @@
 const winston=require('winston');
 const express=require('express');
 var app = express();
-const bodyParser=require('body-parser');
-app.use(bodyParser.json());
+
 const config=require('config');
 const error=require('./middleware/error');
 

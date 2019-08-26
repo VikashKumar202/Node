@@ -266,3 +266,14 @@
 {"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T09:42:59.086Z"}
 {"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T10:28:19.502Z"}
 {"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T10:28:21.043Z"}
+{"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T11:31:18.623Z"}
+{"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T11:31:20.196Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:482:11)\n    at ServerResponse.header (D:\\Training on Node\\NodeProject\\node_modules\\express\\lib\\response.js:771:10)\n    at ServerResponse.send (D:\\Training on Node\\NodeProject\\node_modules\\express\\lib\\response.js:170:12)\n    at router.get.asyncMiddleware (D:\\Training on Node\\NodeProject\\routes\\mobiles.js:25:13)\n    at processTicksAndRejections (internal/process/next_tick.js:81:5)","level":"error","timestamp":"2019-08-26T11:37:04.885Z"}
+{"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T11:42:28.600Z"}
+{"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T11:42:30.125Z"}
+{"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T11:43:28.095Z"}
+{"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T11:43:29.627Z"}
+{"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T13:19:11.208Z"}
+{"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T13:19:12.769Z"}
+{"level":"info","message":"Listening on Port 5000...","timestamp":"2019-08-26T13:24:30.413Z"}
+{"level":"info","message":"Connected to mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/nodeproject?retryWrites=true&w=majority...","timestamp":"2019-08-26T13:24:31.933Z"}
